@@ -16,7 +16,7 @@
 - 회원정보 중복검사
 - 주소 입력 API 연동
 
-#### 로그인 - <a href="https://github.com/decoy8080/pandang/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8" >상세보기 - WIKI 이동</a>
+#### 로그인 - <a href="https://github.com/decoy8080/pandang/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8---ID%EC%B0%BE%EA%B8%B0---PW%EB%B3%80%EA%B2%BD" >상세보기 - WIKI 이동</a>
 - ID찾기, PW변경
 - ID 기억하기
 
